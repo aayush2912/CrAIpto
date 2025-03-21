@@ -1,0 +1,35 @@
+# Core Python Libraries
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+scikit-learn==1.4.1.post1
+
+# Machine Learning Models
+tensorflow==2.15.0
+xgboost==2.0.3
+keras==2.15.0
+
+# Data Visualization
+plotly==5.19.0
+shap==0.44.1
+streamlit==1.32.2
+streamlit-autorefresh==0.0.4
+
+# Backend and API
+requests==2.31.0
+sqlalchemy==2.0.27
+psycopg2-binary==2.9.9
+
+# Model Persistence
+joblib==1.3.2
+
+# Drift Detection and Statistics
+scipy==1.12.0
+
+# Optional (if using Jupyter / local notebooks)
+ipykernel==6.29.2
+jupyterlab==4.1.3
+
+
+
+#pip install -r requirements.txt
